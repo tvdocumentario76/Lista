@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1,Animal Planet
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_c99ca871179a3df672d780a4af2ae22ce93f192a/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nationalgeographic_2e01e174_490cc2f36060e2389475ae304e6aeefe4bc73adb.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/natgeowild_e4dd8a3f_b52ca1ab5c1cad6324b1e042b54e0ac15a155b63/480p/chunklist.m3u8
+#EXTINF:-1,History HD
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/historyopcao2_00a8a5c3_2d086689d60bbe0ca3826728a8dce5cd3291623d.m3u8
+#EXTINF:-1,H2 
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/h2_2bfba6b3_3cb9e623b7bd7041358bc1279f5d8bc00b254ffa.m3u8
+#EXTINF:-1,Discovery Theater
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/discoverytheater_904f2cc1_533e25b9480efa965c454188aa1aff9abb91cb70.m3u8
+#EXTINF:-1,Discovery Science
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/discoveryscience_77c8184f_a75e1550afe61749a02afde6133e773297f2d4b9.m3u8
+#EXTINF:-1,Discovery Civilization
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverycivilization_2473f015_a8b081e4de3578c6603b860c7677a1dcbe806cf0.m3u8
+#EXTINF:-1,Discovery Chanel
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/discoverychannel_af3e1334_73b75942f8abfc1274d84fb25efff24f02073e9d.m3u8
+#EXTINF:-1,Rede Globo RJ
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/globorj_bc15c774_856b074f4498fae407178b6b6892282e1afc4d5e.m3u8
+#EXTINF:-1,rede Globo SP HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/globosphd_3a69aa1b_c9ffde757604573101ea42a0c72d0f97d8919956.m3u8
+#EXTINF:-1,Rede Globo Nordeste
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_daaa0cec6a183ef0b2924dd8b6d4aefc61447858.m3u8
+#EXTINF:-1,SBT SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sbtsp_2a5ac580_a72de49e6c2cf355035ba1708f1622bb0fb1adf4.m3u8
+#EXTINF:-1,Band
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_96260ad300f569c18a91f4ab7440584ac71ad61a/playlist.m3u8
+#EXTINF:-1,Multishow HD
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/multishow_5f573b82_8a0fa96ea0b368ec9858b3780b20975fbdad3e34.m3u8
+#EXTINF:-1,Viva
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/viva_5d00f2c6_964318aff994a457e30c511d8375e868d7631762/playlist.m3u8
+#EXTINF:-1,Premiere Futebol Clube, 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere4_142e9ae3_db9ff6fe5cf024ede79e39a9fc27f8c7206c2fe8.m3u8
+#EXTINF:-1,Premiere 2
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere2_f5b68d74_37a9bac118ccfab774b03074b9054ffc2880eebf.m3u8
+#EXTINF:-1,Premiere 3
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere3_b903ea63_da9af666de3fe48563228ff93b8277d55624c879/playlist.m3u8
+#EXTINF:-1,Premiere 4
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere4_142e9ae3_db9ff6fe5cf024ede79e39a9fc27f8c7206c2fe8.m3u8
+#EXTINF:-1,Premiere 5
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/premiere5_0486ffb0_2da9183169934b820cf5d8384e507517ea30fade.m3u8
+#EXTINF:-1,Premiere 6
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/premiere6_8a279e5c_c4543cfd5177a0d90a8c7c89f676f0c0b11ca2c3.m3u8
+#EXTINF:-1,Premiere 7
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/premiere7_0b6a6376_9ff879e50251e1b66705cdecb0981f4a92a5f2bd.m3u8
+#EXTINF:-1,SporTV
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_8906aeb04a9122b88b12f27ccfb3ef558fed13d5/playlist.m3u8
+#EXTINF:-1,SporTV 2 HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/sportv2opcao2_40f7c01f_fdea23913385accf5e62ac7f1dc8fef0f8960e96.m3u8
+#EXTINF:-1,SporTv 3
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv3_e1a864f0_d45a09dbc282b7efb419971a53879441f38952a5/playlist.m3u8
+#EXTINF:-1,Fox Sports HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_1c09da5b59d8206a4335ae8a47e5babbc125f310/playlist.m3u8
+#EXTINF:-1,Fox Sports HD 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_3d51dcbb4a05583862c9a76706b8c2c62b44ecec.m3u8
